@@ -2,7 +2,7 @@
 
 🎓 Student at Universitas Negeri Malang  
 💻 Passionate about software development  
-👁️ Interested in computer vision, machine learning, and game development
+👁️ Interested in computer vision, robotics programming, and game development
 
 ## About Me
 

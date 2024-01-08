@@ -6,9 +6,9 @@
 
 ## About Me
 
-🔭 Currently focused on deep learning with Python, exploring the exciting realms of artificial intelligence  
+🔭 Currently focused on deep learning in Arduino, exploring the exciting realms of Robotics  
 🚀 Love diving into challenging projects that allow me to leverage my skills and create innovative solutions  
-🌱 Actively learning and growing in computer vision, machine learning, and game development  
+🌱 Actively learning and growing in computer vision, robotics programming, and game development  
 💡 Always exploring new technologies and pushing the boundaries of what's possible
 
 ## Goals and Aspirations

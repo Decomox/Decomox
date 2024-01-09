@@ -1,7 +1,7 @@
 # Hello, I'm Muhammad Syifa Ridhoni! 👋
 
 🎓 Student at Universitas Negeri Malang  
-💻 Passionate about computer vision and robotics programming
+💻 Passionate about computer vision and robotics programming  
 👁️ Interested in game development
 
 ## About Me

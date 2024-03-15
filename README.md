@@ -21,7 +21,7 @@
 ## Get in Touch
 
 📧 Feel free to reach out and connect with me  
-Instagram: @m.syifa_ridhoni 
+Instagram: @m.syifa_ridhoni  
 🌍 Excited to explore new opportunities in the world of software development
 
 

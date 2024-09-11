@@ -7,7 +7,7 @@
 
 Currently focused on deep learning in Machine Learning, exploring the exciting realms of Robotics  
 Love diving into challenging projects that allow me to leverage my skills and create innovative solutions  
-Actively learning and growing in computer vision, robotics programming, and game development  
+Actively learning and growing in machine learning, computer vision, and robotics programming 
 Always exploring new technologies and pushing the boundaries of what's possible
 
 ## Goals and Aspirations
@@ -21,7 +21,6 @@ Let's join forces, exchange ideas, and create something extraordinary together!
 
 📧 Feel free to reach out and connect with me  
 Instagram: @m.syifa_ridhoni  
-🌍 Excited to explore new opportunities in the world of software development
 
 
 
